@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1450px" height="1150px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1600px" height="1150px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1450px" height="1150px" fill="#f6f8fa" rx="15"/>
+<rect width="1600px" height="1150px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">****************************************************************************************************</tspan>
 <tspan x="15" y="50">****************************************************************************************************</tspan>
@@ -73,25 +73,25 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="1090">############****@@@@@@@@@@@@@@@@@@@@%::%%%%##*****:-@%%%%%%%%%%%%%%%%%%%%%%%%@%@@@@%%@%%%%%@@@@@@@@@</tspan>
 <tspan x="15" y="1110">##############**@@@@@@@@@@@@@@@@@@@@%:-%%%%#******:-%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@%%%%%%%@%@@@@@@@@</tspan>
 </text>
-<text x="1000" y="30" fill="#24292f">
-<tspan x="1000" y="30">mysticallama</tspan> -———————————————————————————————————————————-—-
-<tspan x="1000" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 10, iOS 26, Linux</tspan>
-<tspan x="1000" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">25 years</tspan>
-<tspan x="1000" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Yale University</tspan>
-<tspan x="1000" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Data Scientist, MPP Candidate</tspan>
-<tspan x="1000" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">VS Code 1.108.0</tspan>
-<tspan x="1000" y="150" class="cc">. </tspan>
-<tspan x="1000" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Java, Python, C++</tspan>
-<tspan x="1000" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, LaTeX</tspan>
-<tspan x="1000" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">English, Chinese, Russian</tspan>
-<tspan x="1000" y="230" class="cc">. </tspan>
-<tspan x="1000" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Fortnite, Smash Bros</tspan>
-<tspan x="1000" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Overclocking, undervolting</tspan>
-<tspan x="1000" y="290" class="cc">. </tspan>
-<tspan x="1000" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="1000" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">kevinchen9865@gmail.com</tspan>
-<tspan x="1000" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">kevin.chen.kc2593@yale.edu</tspan>
-<tspan x="1000" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">kevinchenpage</tspan>
-<tspan x="1000" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">dabbingonincels</tspan>
+<text x="980" y="390" fill="#24292f">
+<tspan x="980" y="390">mysticallama</tspan> -———————————————————————————————————————————-—-
+<tspan x="980" y="410" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 10, iOS 26, Linux</tspan>
+<tspan x="980" y="430" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">25 years</tspan>
+<tspan x="980" y="450" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Yale University</tspan>
+<tspan x="980" y="470" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Data Scientist, MPP Candidate</tspan>
+<tspan x="980" y="490" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">VS Code 1.108.0</tspan>
+<tspan x="980" y="510" class="cc">. </tspan>
+<tspan x="980" y="530" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Java, Python, C++</tspan>
+<tspan x="980" y="550" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, LaTeX</tspan>
+<tspan x="980" y="570" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">English, Chinese, Russian</tspan>
+<tspan x="980" y="590" class="cc">. </tspan>
+<tspan x="980" y="610" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Fortnite, Smash Bros</tspan>
+<tspan x="980" y="630" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Overclocking, undervolting</tspan>
+<tspan x="980" y="650" class="cc">. </tspan>
+<tspan x="980" y="670">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="980" y="690" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">kevinchen9865@gmail.com</tspan>
+<tspan x="980" y="710" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">kevin.chen.kc2593@yale.edu</tspan>
+<tspan x="980" y="730" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">kevinchenpage</tspan>
+<tspan x="980" y="750" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">dabbingonincels</tspan>
 </text>
 </svg>
